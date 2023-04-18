@@ -4,7 +4,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import Dashboard from "./Dashboard/Dashboard.tsx";
+import Dashboard from "./Dashboard/Dashboard";
 import Product from "./Product/Product";
 
 const router = createBrowserRouter([
