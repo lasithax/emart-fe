@@ -6,7 +6,7 @@ import {
 import { Menu } from "antd";
 import { useState } from "react";
 
-import './appSider.css';
+import "./appSider.css";
 
 const items = [
   {
